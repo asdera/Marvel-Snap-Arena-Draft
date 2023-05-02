@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import * as data from "./marvel_snap_cards.json";
+import Drafter from "./components/drafter";
+import Particles from "react-particles";
+import { loadFull } from "tsparticles";
+import { useCallback, createContext } from "react";
+
+export const ParticleContext = createContext();
 
 function App() {
+  const particlesInit = useCallback(async (engine) => {
+    await loadFull(engine);
+  }, []);
+
+  const particlesLoaded = useCallback(async (container) => {
+    await console.log(container);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ParticleContext.Provider
+      value={{ init: particlesInit, loaded: particlesLoaded }}
+    >
+      <div className="App">
+        <header className="App-header">
+          {/* container of multiple cards */}
+          <div className="card-container">
+            <Drafter allCards={data.default} />
+          </div>
+        </header>
+      </div>
+    </ParticleContext.Provider>
   );
 }
 

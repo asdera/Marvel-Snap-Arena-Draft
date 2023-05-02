@@ -1,0 +1,22 @@
+/* Drafter.css */
+.drafter-container {
+  width: 90vh;
+}
+
+/* .decklist-display is the flex container that shows two lists side by side 
+These lists are .choosen-deck and .discard-deck
+.discard-deck should have twice the width as .choosen-deck
+Together they should stretch to fill the width of .drafter-container
+*/
+
+.choosen-deck {
+  display: block;
+}
+
+.discarded-deck {
+  display: block;
+}
+
+.replaced-deck {
+  display: block;
+}

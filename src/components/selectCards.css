@@ -1,0 +1,17 @@
+/* SelectCards.css */
+.select-cards {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.select-card-container {
+  flex: 1;
+  max-width: 16rem;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.deck-card-container {
+  max-width: 7rem;
+}

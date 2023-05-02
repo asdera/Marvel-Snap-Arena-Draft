@@ -1,0 +1,2324 @@
+[
+  {
+    "name": "Abomination",
+    "cost": "5",
+    "power": "9",
+    "ability": "",
+    "url": "marvel-snap-cards/abomination.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Absorbing Man",
+    "cost": "4",
+    "power": "3",
+    "ability": "On reveal: If the last card you played has an on reveal, copy its text. (if it's in play)",
+    "url": "marvel-snap-cards/absorbing-man.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Adam Warlock",
+    "cost": "2",
+    "power": "0",
+    "ability": "At the end of each turn, if you are winning this location, draw a card.",
+    "url": "marvel-snap-cards/adam-warlock.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Aero",
+    "cost": "5",
+    "power": "8",
+    "ability": "On reveal: Move the last enemy card played this turn to this location.",
+    "url": "marvel-snap-cards/aero.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Agatha Harkness",
+    "cost": "6",
+    "power": "14",
+    "ability": "Agatha starts in your hand and plays your cards for you.",
+    "url": "marvel-snap-cards/agatha-harkness.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Agent 13",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: Add a random card to your hand.",
+    "url": "marvel-snap-cards/agent-13.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Agent Coulson",
+    "cost": "3",
+    "power": "4",
+    "ability": "On reveal: Add a random 4-cost and 5-cost card to your hand.",
+    "url": "marvel-snap-cards/agent-coulson.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "America Chavez",
+    "cost": "6",
+    "power": "9",
+    "ability": "Starts on the bottom of your deck. Draw this on turn 6.",
+    "url": "marvel-snap-cards/america-chavez.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Angel",
+    "cost": "1",
+    "power": "2",
+    "ability": "When one of your cards is destroyed, this flies out of your deck to replace it.",
+    "url": "marvel-snap-cards/angel.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Angela",
+    "cost": "2",
+    "power": "0",
+    "ability": "After you play a card here, +2 power.",
+    "url": "marvel-snap-cards/angela.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Annihilus",
+    "cost": "6",
+    "power": "5",
+    "ability": "On reveal: Each of your cards randomly chooses a location to move to.",
+    "url": "marvel-snap-cards/annihilus.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Ant Man",
+    "cost": "1",
+    "power": "1",
+    "ability": "Ongoing: If you have 3 other cards here, +3 power.",
+    "url": "marvel-snap-cards/ant-man.webp",
+    "status": "released",
+    "source": "Recruit Season"
+  },
+  {
+    "name": "Apocalypse",
+    "cost": "6",
+    "power": "8",
+    "ability": "When you discard this from your hand, put it back with +4 power.",
+    "url": "marvel-snap-cards/apocalypse.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Armor",
+    "cost": "2",
+    "power": "3",
+    "ability": "Ongoing: Cards at this location can't be destroyed.",
+    "url": "marvel-snap-cards/armor.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Arnim Zola",
+    "cost": "6",
+    "power": "0",
+    "ability": "On reveal: Destroy a random friendly card here. Add copies of it to the other locations.",
+    "url": "marvel-snap-cards/arnim-zola.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Attuma",
+    "cost": "4",
+    "power": "10",
+    "ability": "If you have another card here at the end of your turn, destroy this.",
+    "url": "marvel-snap-cards/attuma.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Baron Mordo",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Your opponent draws a card. Set its cost to 6.",
+    "url": "marvel-snap-cards/baron-mordo.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Bast",
+    "cost": "1",
+    "power": "1",
+    "ability": "On reveal: Set the power of all cards in your hand to 3.",
+    "url": "marvel-snap-cards/bast.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Beast",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Return your other cards at this location to your hand. They cost 1 less.",
+    "url": "marvel-snap-cards/beast.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Bishop",
+    "cost": "3",
+    "power": "1",
+    "ability": "After you play a card, this gains +1 power.",
+    "url": "marvel-snap-cards/bishop.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Black Bolt",
+    "cost": "5",
+    "power": "8",
+    "ability": "On reveal: Your opponent must discard the lowest-cost card in their hand.",
+    "url": "marvel-snap-cards/black-bolt.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Black Cat",
+    "cost": "3",
+    "power": "7",
+    "ability": "If this is in your hand at the end of your turn, discard it.",
+    "url": "marvel-snap-cards/black-cat.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Black Knight",
+    "cost": "1",
+    "power": "2",
+    "ability": "When this is destroyed, draw a card.",
+    "url": "marvel-snap-cards/black-knight.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Black Panther",
+    "cost": "5",
+    "power": "4",
+    "ability": "On reveal: Double this card's power.",
+    "url": "marvel-snap-cards/black-panther.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Black Widow",
+    "cost": "2",
+    "power": "1",
+    "ability": "On reveal: Add a widow's bite to your opponent's hand.",
+    "url": "marvel-snap-cards/black-widow.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Blade",
+    "cost": "1",
+    "power": "3",
+    "ability": "On reveal: Discard a card from your hand.",
+    "url": "marvel-snap-cards/blade.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Blink",
+    "cost": "3",
+    "power": "1",
+    "ability": "You can move this each turn. When it moves, +1 power.",
+    "url": "marvel-snap-cards/blink.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Blob",
+    "cost": "3",
+    "power": "4",
+    "ability": "Ongoing: Nothing can move this to another location.",
+    "url": "marvel-snap-cards/blob.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Blue Marvel",
+    "cost": "5",
+    "power": "3",
+    "ability": "Ongoing: Your other cards have +1 power.",
+    "url": "marvel-snap-cards/blue-marvel.webp",
+    "status": "released",
+    "source": "Recruit Season"
+  },
+  {
+    "name": "Brood",
+    "cost": "3",
+    "power": "2",
+    "ability": "On reveal: Add 2 broodlings to this location with the same power.",
+    "url": "marvel-snap-cards/brood.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Bucky Barnes",
+    "cost": "2",
+    "power": "1",
+    "ability": "When this is destroyed, create the winter soldier in its place.",
+    "url": "marvel-snap-cards/bucky-barnes.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Bullseye",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: The next card you draw will be a 2-cost card. (if any are left)",
+    "url": "marvel-snap-cards/bullseye.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Cable",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Put the bottom card of your opponent's deck into your hand.",
+    "url": "marvel-snap-cards/cable.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Captain America",
+    "cost": "3",
+    "power": "3",
+    "ability": "Ongoing: Your other cards at this location have +1 power.",
+    "url": "marvel-snap-cards/captain-america.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Captain Marvel",
+    "cost": "5",
+    "power": "6",
+    "ability": "At the end of the game, move to a location that wins you the game. (if possible)",
+    "url": "marvel-snap-cards/captain-marvel.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Carnage",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Destroy your other cards here. +2 power for each destroyed.",
+    "url": "marvel-snap-cards/carnage.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Cerebro",
+    "cost": "3",
+    "power": "0",
+    "ability": "Ongoing: Your highest power cards get +2 power.",
+    "url": "marvel-snap-cards/cerebro.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Cloak",
+    "cost": "2",
+    "power": "4",
+    "ability": "On reveal: Next turn, both players can move cards to this location.",
+    "url": "marvel-snap-cards/cloak.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Colleen Wing",
+    "cost": "2",
+    "power": "4",
+    "ability": "On reveal: Discard the lowest-cost card from your hand.",
+    "url": "marvel-snap-cards/colleen-wing.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Colossus",
+    "cost": "2",
+    "power": "3",
+    "ability": "Ongoing: Can't be destroyed, moved, or have its power reduced.",
+    "url": "marvel-snap-cards/colossus.webp",
+    "status": "released",
+    "source": "Recruit Season"
+  },
+  {
+    "name": "Cosmo",
+    "cost": "3",
+    "power": "3",
+    "ability": "Ongoing: On reveal abilities won't happen at this location.",
+    "url": "marvel-snap-cards/cosmo.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Crossbones",
+    "cost": "4",
+    "power": "8",
+    "ability": "You can only play this at locations where you are winning.",
+    "url": "marvel-snap-cards/crossbones.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Crystal",
+    "cost": "4",
+    "power": "4",
+    "ability": "On reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
+    "url": "marvel-snap-cards/crystal.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Cyclops",
+    "cost": "3",
+    "power": "4",
+    "ability": "",
+    "url": "marvel-snap-cards/cyclops.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Dagger",
+    "cost": "2",
+    "power": "2",
+    "ability": "When this moves to a location, +2 power for each card your opponent has there.",
+    "url": "marvel-snap-cards/dagger.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Daredevil",
+    "cost": "2",
+    "power": "2",
+    "ability": "On turn 5, you get to see your opponent's plays before you make your own.",
+    "url": "marvel-snap-cards/daredevil.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Darkhawk",
+    "cost": "4",
+    "power": "0",
+    "ability": "Ongoing: +2 power for each card in your opponent's deck.",
+    "url": "marvel-snap-cards/darkhawk.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Dazzler",
+    "cost": "4",
+    "power": "4",
+    "ability": "Ongoing: If you have 4 cards at each location, +6 power.",
+    "url": "marvel-snap-cards/dazzler.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Deadpool",
+    "cost": "1",
+    "power": "1",
+    "ability": "When this is destroyed, return it to your hand with double the power.",
+    "url": "marvel-snap-cards/deadpool.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Death",
+    "cost": "9",
+    "power": "12",
+    "ability": "Costs 1 less for each card destroyed this game.",
+    "url": "marvel-snap-cards/death.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Deathlok",
+    "cost": "3",
+    "power": "5",
+    "ability": "On reveal: Destroy your other cards at this location.",
+    "url": "marvel-snap-cards/deathlok.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Debrii",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Add a rock to each other location, for both players.",
+    "url": "marvel-snap-cards/debrii.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Destroyer",
+    "cost": "6",
+    "power": "15",
+    "ability": "On reveal: Destroy your other cards.",
+    "url": "marvel-snap-cards/destroyer.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Devil Dinosaur",
+    "cost": "5",
+    "power": "3",
+    "ability": "Ongoing: +2 power for each card in your hand.",
+    "url": "marvel-snap-cards/devil-dinosaur.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Doctor Doom",
+    "cost": "6",
+    "power": "5",
+    "ability": "On reveal: Add a 5-power doombot to each other location.",
+    "url": "marvel-snap-cards/doctor-doom.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Doctor Octopus",
+    "cost": "5",
+    "power": "10",
+    "ability": "On reveal: Pull 4 random cards from your opponent's hand to their side of this location.",
+    "url": "marvel-snap-cards/doctor-octopus.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Doctor Strange",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Move your highest power cards to this location.",
+    "url": "marvel-snap-cards/doctor-strange.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Domino",
+    "cost": "2",
+    "power": "3",
+    "ability": "You always draw this card on turn 2, and not before.",
+    "url": "marvel-snap-cards/domino.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Dracula",
+    "cost": "4",
+    "power": "0",
+    "ability": "At the end of the game, discard a card from your hand. This has its power.",
+    "url": "marvel-snap-cards/dracula.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Drax",
+    "cost": "4",
+    "power": "5",
+    "ability": "On reveal: If your opponent played a card here this turn, +3 power.",
+    "url": "marvel-snap-cards/drax.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Ebony Maw",
+    "cost": "1",
+    "power": "7",
+    "ability": "You can't play this after turn 3. Ongoing: You can't play cards here.",
+    "url": "marvel-snap-cards/ebony-maw.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Echo",
+    "cost": "0",
+    "power": "0",
+    "ability": "",
+    "url": "marvel-snap-cards/echo.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Electro",
+    "cost": "3",
+    "power": "2",
+    "ability": "On reveal: +1 max energy. Ongoing: You can only play 1 card a turn.",
+    "url": "marvel-snap-cards/electro.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Elektra",
+    "cost": "1",
+    "power": "1",
+    "ability": "On reveal: Destroy a random enemy 1-cost card at this location.",
+    "url": "marvel-snap-cards/elektra.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "cost": "1",
+    "power": "1",
+    "ability": "At the end of each turn, if you are winning this location, +1 power.",
+    "url": "marvel-snap-cards/elsa-bloodstone.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Enchantress",
+    "cost": "4",
+    "power": "6",
+    "ability": "On reveal: Remove the abilities from all ongoing cards at this location.",
+    "url": "marvel-snap-cards/enchantress.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Falcon",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Return your 1-cost cards to your hand.",
+    "url": "marvel-snap-cards/falcon.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Flatman",
+    "cost": "2",
+    "power": "2",
+    "ability": "Ongoing: Adjacent locations have +1 power.",
+    "url": "marvel-snap-cards/flatman.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Forge",
+    "cost": "2",
+    "power": "1",
+    "ability": "On reveal: Give the next card you play +2 power.",
+    "url": "marvel-snap-cards/forge.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Galactus",
+    "cost": "6",
+    "power": "2",
+    "ability": "On reveal: If this is your only card here, destroy all other locations.",
+    "url": "marvel-snap-cards/galactus.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Gambit",
+    "cost": "3",
+    "power": "1",
+    "ability": "On reveal: Discard a card from your hand. Destroy a random enemy card.",
+    "url": "marvel-snap-cards/gambit.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Gamora",
+    "cost": "5",
+    "power": "7",
+    "ability": "On reveal: If your opponent played a card here this turn, +5 power.",
+    "url": "marvel-snap-cards/gamora.webp",
+    "status": "released",
+    "source": "Recruit Season"
+  },
+  {
+    "name": "Ghost",
+    "cost": "1",
+    "power": "2",
+    "ability": "Ongoing: Your cards are always revealed last. (their on reveal abilities happen last.)",
+    "url": "marvel-snap-cards/ghost.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Ghost Rider",
+    "cost": "4",
+    "power": "3",
+    "ability": "On reveal: Bring back one of your discarded cards to this location.",
+    "url": "marvel-snap-cards/ghost-rider.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Ghost-Spider",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: The last card you played moves here.",
+    "url": "marvel-snap-cards/ghost-spider.webp",
+    "status": "unreleased",
+    "source": "Season Pass"
+  },
+  {
+    "name": "Giganto",
+    "cost": "6",
+    "power": "14",
+    "ability": "You can only play this at the left location.",
+    "url": "marvel-snap-cards/giganto.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Gladiator",
+    "cost": "0",
+    "power": "0",
+    "ability": "",
+    "url": "marvel-snap-cards/gladiator.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Goblin Queen",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Other cards can't be revealed this turn.",
+    "url": "marvel-snap-cards/goblin-queen.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Goose",
+    "cost": "2",
+    "power": "2",
+    "ability": "Ongoing: Nobody can play cards that cost 4, 5, or 6 at this location.",
+    "url": "marvel-snap-cards/goose.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Gorr",
+    "cost": "0",
+    "power": "0",
+    "ability": "",
+    "url": "marvel-snap-cards/gorr.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Green Goblin",
+    "cost": "3",
+    "power": "-3",
+    "ability": "On reveal: Your opponent gains control of this.",
+    "url": "marvel-snap-cards/green-goblin.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Groot",
+    "cost": "3",
+    "power": "4",
+    "ability": "On reveal: If your opponent played a card here this turn, +2 power.",
+    "url": "marvel-snap-cards/groot.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Gwenpool",
+    "cost": "2",
+    "power": "1",
+    "ability": "On reveal: Double this card's power.",
+    "url": "marvel-snap-cards/gwenpool.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Hawkeye",
+    "cost": "1",
+    "power": "1",
+    "ability": "On reveal: If you play a card here next turn, +2 power.",
+    "url": "marvel-snap-cards/hawkeye.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Hazmat",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Afflict all other cards with -1 power.",
+    "url": "marvel-snap-cards/hazmat.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Heimdall",
+    "cost": "6",
+    "power": "8",
+    "ability": "On reveal: Move your other cards one location to the left.",
+    "url": "marvel-snap-cards/heimdall.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Hela",
+    "cost": "6",
+    "power": "6",
+    "ability": "On reveal: Resurrect all cards you discarded from your hand to random locations.",
+    "url": "marvel-snap-cards/hela.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Helicarrier",
+    "cost": "6",
+    "power": "10",
+    "ability": "When you discard this from your hand, add 3 random cards to your hand.",
+    "url": "marvel-snap-cards/helicarrier.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Hellcow",
+    "cost": "4",
+    "power": "6",
+    "ability": "On reveal: Discard 2 cards from your hand.",
+    "url": "marvel-snap-cards/hellcow.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "High Evolutionary",
+    "cost": "4",
+    "power": "7",
+    "ability": "At the start of the game, unlock the secret ability of all your cards with no abilities.",
+    "url": "marvel-snap-cards/high-evolutionary.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Hit Monkey",
+    "cost": "2",
+    "power": "0",
+    "ability": "On reveal: Gain +2 power for each other card you played this turn.",
+    "url": "marvel-snap-cards/hit-monkey.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Hobgoblin",
+    "cost": "5",
+    "power": "-8",
+    "ability": "On reveal: Your opponent gains control of this.",
+    "url": "marvel-snap-cards/hobgoblin.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Howard The Duck",
+    "cost": "1",
+    "power": "2",
+    "ability": "Ongoing: Tap this to see the top card of your deck.",
+    "url": "marvel-snap-cards/howard-the-duck.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Hulk",
+    "cost": "6",
+    "power": "12",
+    "ability": "",
+    "url": "marvel-snap-cards/hulk.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Hulkbuster",
+    "cost": "3",
+    "power": "4",
+    "ability": "On reveal: Merge this card with a random friendly card at this location.",
+    "url": "marvel-snap-cards/hulk-buster.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Human Torch",
+    "cost": "1",
+    "power": "2",
+    "ability": "When this moves, double its power.",
+    "url": "marvel-snap-cards/human-torch.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Iceman",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: Give a random card in your opponent's hand +1 cost. (maximum 6)",
+    "url": "marvel-snap-cards/iceman.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Invisible Woman",
+    "cost": "2",
+    "power": "2",
+    "ability": "Ongoing: Cards you play here are not revealed until the game ends.",
+    "url": "marvel-snap-cards/invisible-woman.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Iron Fist",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: After you play your next card, move it one location to the left.",
+    "url": "marvel-snap-cards/iron-fist.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Iron Lad",
+    "cost": "4",
+    "power": "6",
+    "ability": "On reveal: Copy the text of your deck's top card.",
+    "url": "marvel-snap-cards/iron-lad.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Iron Man",
+    "cost": "5",
+    "power": "0",
+    "ability": "Ongoing: Your total power is doubled at this location.",
+    "url": "marvel-snap-cards/iron-man.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Ironheart",
+    "cost": "3",
+    "power": "0",
+    "ability": "On reveal: Give 3 other friendly cards +2 power.",
+    "url": "marvel-snap-cards/ironheart.webp",
+    "status": "released",
+    "source": "Recruit Season"
+  },
+  {
+    "name": "J. Jonah Jameson",
+    "cost": "1",
+    "power": "1",
+    "ability": "Ongoing: Your emotes are ruder.",
+    "url": "marvel-snap-cards/j-jonah-jameson.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Jane Foster Mighty Thor",
+    "cost": "5",
+    "power": "8",
+    "ability": "On reveal: Draw all cards that cost 0 from your deck.",
+    "url": "marvel-snap-cards/jane-foster-mighty-thor.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Jean Grey",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: The next card your opponent plays must be played here, if possible.",
+    "url": "marvel-snap-cards/jean-grey.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Jeff The Baby Land Shark",
+    "cost": "2",
+    "power": "3",
+    "ability": "You can move this once. Nothing can stop you from moving or playing this to any location.",
+    "url": "marvel-snap-cards/jeff-the-baby-land-shark.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Jessica Jones",
+    "cost": "4",
+    "power": "4",
+    "ability": "On reveal: If you don't play a card here next turn, +4 power.",
+    "url": "marvel-snap-cards/jessica-jones.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Jubilee",
+    "cost": "4",
+    "power": "1",
+    "ability": "On reveal: Add the top card of your deck to this location.",
+    "url": "marvel-snap-cards/jubilee.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Juggernaut",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: If your opponent played cards here this turn, move them randomly.",
+    "url": "marvel-snap-cards/juggernaut.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Ka-Zar",
+    "cost": "4",
+    "power": "4",
+    "ability": "Ongoing: Your 1-cost cards have +1 power.",
+    "url": "marvel-snap-cards/ka-zar.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Kang",
+    "cost": "5",
+    "power": "0",
+    "ability": "On reveal: Look at what your opponent did, then restart the turn. (without kang)",
+    "url": "marvel-snap-cards/kang.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Killmonger",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Destroy all 1-cost cards.",
+    "url": "marvel-snap-cards/killmonger.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "King Eitri",
+    "cost": "5",
+    "power": "3",
+    "ability": "On reveal: Give the next card you play +4 power.",
+    "url": "marvel-snap-cards/king-eitri.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Kingpin",
+    "cost": "3",
+    "power": "4",
+    "ability": "When a card moves here on turn 6, destroy it.",
+    "url": "marvel-snap-cards/kingpin.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Kitty Pryde",
+    "cost": "1",
+    "power": "0",
+    "ability": "You can return this to your hand to gain +2 power.",
+    "url": "marvel-snap-cards/kitty-pryde.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Klaw",
+    "cost": "5",
+    "power": "4",
+    "ability": "Ongoing: The location to the right has +6 power.",
+    "url": "marvel-snap-cards/klaw.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Knull",
+    "cost": "6",
+    "power": "0",
+    "ability": "Ongoing: Has the combined power of all cards destroyed this game.",
+    "url": "marvel-snap-cards/knull.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Korg",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: Shuffle a rock into your opponent's deck.",
+    "url": "marvel-snap-cards/korg.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Kraven",
+    "cost": "2",
+    "power": "2",
+    "ability": "When a card moves here, this gets +2 power.",
+    "url": "marvel-snap-cards/kraven.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Lady Deathstrike",
+    "cost": "6",
+    "power": "4",
+    "ability": "On reveal: Destroy the enemy card with the highest power at this location.",
+    "url": "marvel-snap-cards/lady-deathstrike.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Lady Sif",
+    "cost": "3",
+    "power": "4",
+    "ability": "On reveal: Discard the highest-cost card from your hand.",
+    "url": "marvel-snap-cards/lady-sif.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Leader",
+    "cost": "6",
+    "power": "2",
+    "ability": "On reveal: Copy the enemy card(s) with the highest power played this turn, but on your side.",
+    "url": "marvel-snap-cards/leader.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Leech",
+    "cost": "5",
+    "power": "3",
+    "ability": "At the start of turn 6, remove all abilities from cards in your opponent's hand.",
+    "url": "marvel-snap-cards/leech.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Legion",
+    "cost": "5",
+    "power": "4",
+    "ability": "On reveal: Change other locations into this location.",
+    "url": "marvel-snap-cards/legion.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Lizard",
+    "cost": "2",
+    "power": "5",
+    "ability": "Ongoing: -4 power if your opponent has 4 cards here.",
+    "url": "marvel-snap-cards/lizard.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Lockjaw",
+    "cost": "3",
+    "power": "2",
+    "ability": "",
+    "url": "marvel-snap-cards/lockjaw.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Loki",
+    "cost": "0",
+    "power": "0",
+    "ability": "",
+    "url": "marvel-snap-cards/loki.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Luke Cage",
+    "cost": "2",
+    "power": "1",
+    "ability": "Ongoing: Your cards can't have their power reduced.",
+    "url": "marvel-snap-cards/luke-cage.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "M'Baku",
+    "cost": "1",
+    "power": "2",
+    "ability": "If this is in your deck at the end of the game, it jumps to a random location.",
+    "url": "marvel-snap-cards/mbaku.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Magik",
+    "cost": "5",
+    "power": "3",
+    "ability": "You can't play this on turn 6. On reveal: Change this location to 'limbo'.",
+    "url": "marvel-snap-cards/magik.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Magneto",
+    "cost": "6",
+    "power": "12",
+    "ability": "On reveal: Move all opposing 3 and 4-cost cards to this location.",
+    "url": "marvel-snap-cards/magneto.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Makkari",
+    "cost": "0",
+    "power": "2",
+    "ability": "When you draw this, place it at a random location.",
+    "url": "marvel-snap-cards/makkari.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Mantis",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: If your opponent played a card here this turn, draw a card from their deck.",
+    "url": "marvel-snap-cards/mantis.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Maria Hill",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Add a random 1-cost card to your hand.",
+    "url": "marvel-snap-cards/maria-hill.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Master Mold",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Add 2 sentinel to your opponent's hand.",
+    "url": "marvel-snap-cards/master-mold.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Maximus",
+    "cost": "3",
+    "power": "7",
+    "ability": "On reveal: Your opponent draws 2 cards.",
+    "url": "marvel-snap-cards/maximus.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Medusa",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: If this is at the middle location, +2 power.",
+    "url": "marvel-snap-cards/medusa.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Mephisto",
+    "cost": "6",
+    "power": "0",
+    "ability": "If you win this game, double your winnings.",
+    "url": "marvel-snap-cards/mephisto.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Miles Morales",
+    "cost": "4",
+    "power": "5",
+    "ability": "If a card moved last turn, this costs 1.",
+    "url": "marvel-snap-cards/miles-morales.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Mirage",
+    "cost": "4",
+    "power": "5",
+    "ability": "As you play this, disguise it as mister fantastic. After the final turn, reveal it.",
+    "url": "marvel-snap-cards/mirage.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Mister Fantastic",
+    "cost": "3",
+    "power": "2",
+    "ability": "Ongoing: Adjacent locations have +2 power.",
+    "url": "marvel-snap-cards/mister-fantastic.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Mister Negative",
+    "cost": "4",
+    "power": "-1",
+    "ability": "On reveal: Swap the power and cost of all cards in your deck.",
+    "url": "marvel-snap-cards/mister-negative.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Mister Sinister",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Add a sinister clone to this location with the same power.",
+    "url": "marvel-snap-cards/mister-sinister.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Misty Knight",
+    "cost": "1",
+    "power": "2",
+    "ability": "",
+    "url": "marvel-snap-cards/misty-knight.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Modok",
+    "cost": "5",
+    "power": "8",
+    "ability": "On reveal: Discard your hand.",
+    "url": "marvel-snap-cards/modok.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Mojo",
+    "cost": "2",
+    "power": "2",
+    "ability": "Ongoing: If both players have 4 cards at this location, +6 power.",
+    "url": "marvel-snap-cards/mojo.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Moon Girl",
+    "cost": "4",
+    "power": "4",
+    "ability": "On reveal: Duplicate your hand.",
+    "url": "marvel-snap-cards/moon-girl.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Moon Knight",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Discard a card from each player's hand.",
+    "url": "marvel-snap-cards/moon-knight.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Morbius",
+    "cost": "2",
+    "power": "0",
+    "ability": "Ongoing: +2 power for each time you discarded a card this game.",
+    "url": "marvel-snap-cards/morbius.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Morph",
+    "cost": "3",
+    "power": "0",
+    "ability": "On reveal: Become a copy of a random card in your opponent's hand.",
+    "url": "marvel-snap-cards/morph.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Ms. Marvel",
+    "cost": "3",
+    "power": "4",
+    "ability": "Ongoing: If this is your only card here, adjacent locations have +5 power.",
+    "url": "marvel-snap-cards/ms.-marvel.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Multiple Man",
+    "cost": "2",
+    "power": "3",
+    "ability": "When this moves, add a copy to the old location.",
+    "url": "marvel-snap-cards/multiple-man.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Mysterio",
+    "cost": "2",
+    "power": "4",
+    "ability": "As you play this, play illusions to other locations. Disguise this as an illusion until the game ends.",
+    "url": "marvel-snap-cards/mysterio.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Mystique",
+    "cost": "3",
+    "power": "0",
+    "ability": "On reveal: If the last card you played has an ongoing, copy its text. (if it's in play)",
+    "url": "marvel-snap-cards/mystique.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Nakia",
+    "cost": "3",
+    "power": "2",
+    "ability": "On reveal: Give the 2 leftmost cards in your hand +2 power.",
+    "url": "marvel-snap-cards/nakia.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Namor",
+    "cost": "4",
+    "power": "6",
+    "ability": "Ongoing: +5 power if this is your only card here.",
+    "url": "marvel-snap-cards/namor.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Nebula",
+    "cost": "1",
+    "power": "1",
+    "ability": "Each turn your opponent doesn't play a card here, +2 power. (except the turn you play this)",
+    "url": "marvel-snap-cards/nebula.webp",
+    "status": "unreleased",
+    "source": "Season Pass"
+  },
+  {
+    "name": "Negasonic Teenage Warhead",
+    "cost": "3",
+    "power": "4",
+    "ability": "After any card is played here, destroy this card and that card.",
+    "url": "marvel-snap-cards/negasonic-teenage-warhead.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Nick Fury",
+    "cost": "5",
+    "power": "7",
+    "ability": "On reveal: Add 3 random 6-cost cards to your hand.",
+    "url": "marvel-snap-cards/nick-fury.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Night Nurse",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Add all cards you discarded or destroyed last turn to your hand.",
+    "url": "marvel-snap-cards/night-nurse.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Nightcrawler",
+    "cost": "1",
+    "power": "2",
+    "ability": "You can move this once.",
+    "url": "marvel-snap-cards/nightcrawler.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Nimrod",
+    "cost": "5",
+    "power": "5",
+    "ability": "When this is destroyed, add a copy to each other location.",
+    "url": "marvel-snap-cards/nimrod.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Nova",
+    "cost": "1",
+    "power": "1",
+    "ability": "When this is destroyed, give your cards +1 power.",
+    "url": "marvel-snap-cards/nova.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Odin",
+    "cost": "6",
+    "power": "8",
+    "ability": "On reveal: Activate the on reveal abilities of your other cards at this location.",
+    "url": "marvel-snap-cards/odin.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Okoye",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Give every card in your deck +1 power.",
+    "url": "marvel-snap-cards/okoye.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Omega Red",
+    "cost": "4",
+    "power": "5",
+    "ability": "Ongoing: If you're ahead by 10 power here, +4 power to other locations.",
+    "url": "marvel-snap-cards/omega-red.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Onslaught",
+    "cost": "6",
+    "power": "7",
+    "ability": "Ongoing: Double your other ongoing effects at this location.",
+    "url": "marvel-snap-cards/onslaught.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Orka",
+    "cost": "6",
+    "power": "9",
+    "ability": "Ongoing: +5 power if this is your only card here.",
+    "url": "marvel-snap-cards/orka.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Patriot",
+    "cost": "3",
+    "power": "1",
+    "ability": "Ongoing: Your cards with no abilities have +2 power.",
+    "url": "marvel-snap-cards/patriot.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Polaris",
+    "cost": "3",
+    "power": "5",
+    "ability": "On reveal: Move an opposing 1 or 2-cost card to this location.",
+    "url": "marvel-snap-cards/polaris.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Professor X",
+    "cost": "5",
+    "power": "3",
+    "ability": "Ongoing: Lock down this location. (cards can't be added, removed, etc.)",
+    "url": "marvel-snap-cards/professor-x.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Psylocke",
+    "cost": "2",
+    "power": "1",
+    "ability": "On reveal: Next turn, you get +1 energy.",
+    "url": "marvel-snap-cards/psylocke.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Punisher",
+    "cost": "3",
+    "power": "2",
+    "ability": "Ongoing: +1 power for each opposing card at this location.",
+    "url": "marvel-snap-cards/punisher.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Quake",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: If this is at the middle location, swap the positions of each location.",
+    "url": "marvel-snap-cards/quake.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Quicksilver",
+    "cost": "1",
+    "power": "2",
+    "ability": "Starts in your opening hand.",
+    "url": "marvel-snap-cards/quicksilver.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Quinjet",
+    "cost": "1",
+    "power": "2",
+    "ability": "Ongoing: Cards that didn't start in your deck cost 1 less. (minimum 1)",
+    "url": "marvel-snap-cards/quinjet.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Random",
+    "cost": "4",
+    "power": "0",
+    "ability": "On reveal: Set this card's power equal to the power of a random card in your deck.",
+    "url": "marvel-snap-cards/random.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Red Guardian",
+    "cost": "3",
+    "power": "6",
+    "ability": "On reveal: You must play a card here next turn.",
+    "url": "marvel-snap-cards/red-guardian.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Red Skull",
+    "cost": "5",
+    "power": "12",
+    "ability": "Ongoing: Enemy cards at this location have +1 power.",
+    "url": "marvel-snap-cards/red-skull.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Rescue",
+    "cost": "4",
+    "power": "4",
+    "ability": "On reveal: If you play a card here next turn, +5 power.",
+    "url": "marvel-snap-cards/rescue.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Rhino",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Ruin this location. (remove its ability)",
+    "url": "marvel-snap-cards/rhino.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: If your opponent played a card here this turn, +2 power.",
+    "url": "marvel-snap-cards/rocket-racoon.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Rockslide",
+    "cost": "4",
+    "power": "6",
+    "ability": "On reveal: Shuffle 2 rocks into your opponent's deck.",
+    "url": "marvel-snap-cards/rockslide.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Rogue",
+    "cost": "3",
+    "power": "1",
+    "ability": "On reveal: Steal an ongoing ability from a random enemy card at this location.",
+    "url": "marvel-snap-cards/rogue.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Ronan The Accuser",
+    "cost": "5",
+    "power": "3",
+    "ability": "Ongoing: +2 power for each card in your opponent's hand.",
+    "url": "marvel-snap-cards/ronan-the-accuser.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Sabretooth",
+    "cost": "3",
+    "power": "4",
+    "ability": "When this is destroyed, return it to your hand. It costs 0.",
+    "url": "marvel-snap-cards/sabretooth.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Sandman",
+    "cost": "5",
+    "power": "3",
+    "ability": "Ongoing: Players can only play 1 card a turn.",
+    "url": "marvel-snap-cards/sandman.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Sauron",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Remove the abilities from all ongoing cards in your hand and deck.",
+    "url": "marvel-snap-cards/sauron.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Scarlet Witch",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Replace this location with a random new one.",
+    "url": "marvel-snap-cards/scarlet-witch.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Scorpion",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: Afflict cards in your opponent's hand with -1 power.",
+    "url": "marvel-snap-cards/scorpion.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Sentinel",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Add another sentinel to your hand.",
+    "url": "marvel-snap-cards/sentinel.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Sentry",
+    "cost": "4",
+    "power": "10",
+    "ability": "You can't play this at the right location. On reveal: Add a -10 power void to the right location.",
+    "url": "marvel-snap-cards/sentry.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Sera",
+    "cost": "5",
+    "power": "4",
+    "ability": "Ongoing: Cards in your hand cost 1 less. (minimum 1)",
+    "url": "marvel-snap-cards/sera.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Shadow King",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Set all cards here to their original base power.",
+    "url": "marvel-snap-cards/shadow-king.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Shang-Chi",
+    "cost": "4",
+    "power": "3",
+    "ability": "On reveal: Destroy all enemy cards at this location that have 9 or more power.",
+    "url": "marvel-snap-cards/shang-chi.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Shanna",
+    "cost": "4",
+    "power": "4",
+    "ability": "On reveal: Add a random 1-cost card to each location",
+    "url": "marvel-snap-cards/shanna.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "She-Hulk",
+    "cost": "6",
+    "power": "9",
+    "ability": "Costs 1 less for each unspent energy last turn.",
+    "url": "marvel-snap-cards/she-hulk.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Shocker",
+    "cost": "2",
+    "power": "3",
+    "ability": "",
+    "url": "marvel-snap-cards/shocker.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Shuri",
+    "cost": "4",
+    "power": "2",
+    "ability": "On reveal: If you play your next card here, double its power.",
+    "url": "marvel-snap-cards/shuri.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Silk",
+    "cost": "2",
+    "power": "5",
+    "ability": "After any card is played here, this moves to another location.",
+    "url": "marvel-snap-cards/silk.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Silver Sable",
+    "cost": "2",
+    "power": "6",
+    "ability": "You can only play this at a location where you have 6+ total power.",
+    "url": "marvel-snap-cards/silver-sable.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Silver Samurai",
+    "cost": "1",
+    "power": "2",
+    "ability": "When this is discarded from your hand, draw a card.",
+    "url": "marvel-snap-cards/silver-samurai.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Silver Surfer",
+    "cost": "3",
+    "power": "2",
+    "ability": "On reveal: Give your other 3-cost cards +2 power.",
+    "url": "marvel-snap-cards/silver-surfer.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Snowguard",
+    "cost": "1",
+    "power": "2",
+    "ability": "While in your hand, this transforms each turn into a hawk or a bear.",
+    "url": "marvel-snap-cards/snowguard.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Spectrum",
+    "cost": "6",
+    "power": "5",
+    "ability": "On reveal: Give your ongoing cards +2 power.",
+    "url": "marvel-snap-cards/spectrum.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Spider-Ham",
+    "cost": "1",
+    "power": "1",
+    "ability": "On reveal: Transform the highest-cost card in your opponent's hand into a pig, keeping its power and cost.",
+    "url": "marvel-snap-cards/spider-ham.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Spider-Man",
+    "cost": "4",
+    "power": "3",
+    "ability": "On reveal: Your opponent can't play cards at this location next turn.",
+    "url": "marvel-snap-cards/spider-man.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Spider-Man 2099",
+    "cost": "4",
+    "power": "5",
+    "ability": "The first time this moves to a location, destroy an enemy card there.",
+    "url": "marvel-snap-cards/spider-man-2099.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Spider-Woman",
+    "cost": "5",
+    "power": "8",
+    "ability": "On reveal: Afflict all enemy cards here with -1 power.",
+    "url": "marvel-snap-cards/spider-woman.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Squirrel Girl",
+    "cost": "1",
+    "power": "1",
+    "ability": "On reveal: Add a 1-power squirrel to each other location.",
+    "url": "marvel-snap-cards/squirrel-girl.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Star-Lord",
+    "cost": "2",
+    "power": "2",
+    "ability": "On reveal: If your opponent played a card here this turn, +3 power.",
+    "url": "marvel-snap-cards/star-lord.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Stature",
+    "cost": "5",
+    "power": "7",
+    "ability": "Costs 1 if your opponent discarded a card from their hand this game.",
+    "url": "marvel-snap-cards/stature.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Stegron",
+    "cost": "4",
+    "power": "5",
+    "ability": "On reveal: Move an enemy card from here to another location.",
+    "url": "marvel-snap-cards/stegron.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "Storm",
+    "cost": "3",
+    "power": "2",
+    "ability": "On reveal: Flood this location. Next turn is the last turn cards can be played here.",
+    "url": "marvel-snap-cards/storm.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Strong Guy",
+    "cost": "4",
+    "power": "4",
+    "ability": "Ongoing: If your hand is empty, +6 power.",
+    "url": "marvel-snap-cards/strong-guy.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Stryfe",
+    "cost": "3",
+    "power": "7",
+    "ability": "If your opponent has 12+ power here at the end of any turn, destroy this.",
+    "url": "marvel-snap-cards/stryfe.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Sunspot",
+    "cost": "1",
+    "power": "0",
+    "ability": "At the end of each turn, gain +1 power for each unspent energy.",
+    "url": "marvel-snap-cards/sunspot.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Super-Skrull",
+    "cost": "4",
+    "power": "2",
+    "ability": "Ongoing: Has the ongoing effects of all enemy cards.",
+    "url": "marvel-snap-cards/super-skrull.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Surtur",
+    "cost": "5",
+    "power": "0",
+    "ability": "If you move the human torch to this location, +10 power.",
+    "url": "marvel-snap-cards/surtur.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Swarm",
+    "cost": "2",
+    "power": "3",
+    "ability": "When this is discarded from your hand, add two copies that cost 0 to your hand.",
+    "url": "marvel-snap-cards/swarm.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Sword Master",
+    "cost": "3",
+    "power": "6",
+    "ability": "On reveal: Discard a card from your hand.",
+    "url": "marvel-snap-cards/sword-master.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Taskmaster",
+    "cost": "5",
+    "power": "0",
+    "ability": "On reveal: Set this card's power equal to that of the last card you played. (if that card's in play)",
+    "url": "marvel-snap-cards/taskmaster.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Thanos",
+    "cost": "6",
+    "power": "10",
+    "ability": "At the start of the game, shuffle the six infinity stones into your deck.",
+    "url": "marvel-snap-cards/thanos.webp",
+    "status": "released",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "The Collector",
+    "cost": "2",
+    "power": "1",
+    "ability": "",
+    "url": "marvel-snap-cards/the-collector.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "The Hood",
+    "cost": "1",
+    "power": "-2",
+    "ability": "On reveal: Add a demon to your hand.",
+    "url": "marvel-snap-cards/the-hood.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "The Infinaut",
+    "cost": "6",
+    "power": "20",
+    "ability": "If you played a card last turn, you can't play this.",
+    "url": "marvel-snap-cards/the-infinaut.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "The Living Tribunal",
+    "cost": "6",
+    "power": "4",
+    "ability": "Ongoing: Split your total power evenly among all locations.",
+    "url": "marvel-snap-cards/the-living-tribunal.webp",
+    "status": "unreleased",
+    "source": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+  },
+  {
+    "name": "The Phoenix Force",
+    "cost": "6",
+    "power": "3",
+    "ability": "On reveal: Revive one of your destroyed cards with +5 power. If it's jean grey, +10 power.",
+    "url": "marvel-snap-cards/the-phoenix-force.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "The Thing",
+    "cost": "4",
+    "power": "6",
+    "ability": "",
+    "url": "marvel-snap-cards/the-thing.webp",
+    "status": "released",
+    "source": "Starter Card"
+  },
+  {
+    "name": "Thor",
+    "cost": "3",
+    "power": "4",
+    "ability": "On reveal: Shuffle mjolnir into your deck.",
+    "url": "marvel-snap-cards/thor.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Titania",
+    "cost": "1",
+    "power": "5",
+    "ability": "After any card is played here, this card switches sides.",
+    "url": "marvel-snap-cards/titania.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Toad",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Move the last card you played to this location.",
+    "url": "marvel-snap-cards/toad.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Typhoid Mary",
+    "cost": "4",
+    "power": "10",
+    "ability": "Ongoing: Your other cards have -1 power.",
+    "url": "marvel-snap-cards/typhoid-mary.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Uatu The Watcher",
+    "cost": "1",
+    "power": "2",
+    "ability": "Once this is in your hand, you can see the unrevealed locations.",
+    "url": "marvel-snap-cards/uatu-the-watcher.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Ultron",
+    "cost": "6",
+    "power": "8",
+    "ability": "On reveal: Create four 1-power drones at each other location.",
+    "url": "marvel-snap-cards/ultron.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Uncle Ben",
+    "cost": "1",
+    "power": "2",
+    "ability": "When this card is destroyed, add spider-man to your hand.",
+    "url": "marvel-snap-cards/uncle-ben.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Valkyrie",
+    "cost": "5",
+    "power": "3",
+    "ability": "On reveal: Set all cards at this location to 3 power.",
+    "url": "marvel-snap-cards/valkyrie.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Venom",
+    "cost": "3",
+    "power": "1",
+    "ability": "On reveal: Destroy your other cards at this location. Add their power to this card.",
+    "url": "marvel-snap-cards/venom.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Viper",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Your opponent gains control of one of your other cards at this location.",
+    "url": "marvel-snap-cards/viper.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Vision",
+    "cost": "5",
+    "power": "7",
+    "ability": "You can move this each turn.",
+    "url": "marvel-snap-cards/vision.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Viv Vision",
+    "cost": "2",
+    "power": "3",
+    "ability": "When you move a card to a location, move this card there as well.",
+    "url": "marvel-snap-cards/viv-vision.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Vulture",
+    "cost": "3",
+    "power": "3",
+    "ability": "When this card moves, +5 power.",
+    "url": "marvel-snap-cards/vulture.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "War Machine",
+    "cost": "4",
+    "power": "5",
+    "ability": "Ongoing: Your 1-cost cards have +1 power.",
+    "url": "marvel-snap-cards/war-machine.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Warpath",
+    "cost": "4",
+    "power": "5",
+    "ability": "Ongoing: If any of your locations are empty, +4 power.",
+    "url": "marvel-snap-cards/warpath.webp",
+    "status": "released",
+    "source": "Collection Level 222-474 (Pool 2)"
+  },
+  {
+    "name": "Wasp",
+    "cost": "0",
+    "power": "1",
+    "ability": "",
+    "url": "marvel-snap-cards/wasp.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Wave",
+    "cost": "3",
+    "power": "3",
+    "ability": "On reveal: Next turn, cards in both players' hands cost 4.",
+    "url": "marvel-snap-cards/wave.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "White Queen",
+    "cost": "4",
+    "power": "6",
+    "ability": "On reveal: Draw a copy of the highest cost card in your opponent's hand.",
+    "url": "marvel-snap-cards/white-queen.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "White Tiger",
+    "cost": "5",
+    "power": "1",
+    "ability": "On reveal: Add a 7-power tiger to another location.",
+    "url": "marvel-snap-cards/white-tiger.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Witchfire",
+    "cost": "2",
+    "power": "3",
+    "ability": "On reveal: Your opponent draws a card, increase its cost by 1.",
+    "url": "marvel-snap-cards/witchfire.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Wolfsbane",
+    "cost": "3",
+    "power": "1",
+    "ability": "On reveal: +2 power for each other card you have here.",
+    "url": "marvel-snap-cards/wolfsbane.webp",
+    "status": "released",
+    "source": "Collection Level 1-14"
+  },
+  {
+    "name": "Wolverine",
+    "cost": "2",
+    "power": "2",
+    "ability": "When this is discarded or destroyed, regenerate it at a random location with +2 power.",
+    "url": "marvel-snap-cards/wolverine.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Wong",
+    "cost": "4",
+    "power": "2",
+    "ability": "Ongoing: Your on reveal abilities at this location happen twice.",
+    "url": "marvel-snap-cards/wong.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "X-23",
+    "cost": "3",
+    "power": "3",
+    "ability": "When this is discarded from your hand, put it back. It costs 0.",
+    "url": "marvel-snap-cards/x-23.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Yellowjacket",
+    "cost": "0",
+    "power": "2",
+    "ability": "On reveal: Afflict your other cards at this location with -1 power.",
+    "url": "marvel-snap-cards/yellowjacket.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  },
+  {
+    "name": "Yo-Yo",
+    "cost": "1",
+    "power": "2",
+    "ability": "When this card moves, move it back with +1 power.",
+    "url": "marvel-snap-cards/yo-yo.webp",
+    "status": "unreleased",
+    "source": "Not Available"
+  },
+  {
+    "name": "Yondu",
+    "cost": "1",
+    "power": "2",
+    "ability": "On reveal: Destroy the top card of your opponent's deck.",
+    "url": "marvel-snap-cards/yondu.webp",
+    "status": "released",
+    "source": "Collection Level 18-214 (Pool 1)"
+  },
+  {
+    "name": "Zabu",
+    "cost": "2",
+    "power": "2",
+    "ability": "Ongoing: Your 4-cost cards cost 1 less. (minimum 1)",
+    "url": "marvel-snap-cards/zabu.webp",
+    "status": "released",
+    "source": "Series 4 Rare - Collection Level 486+ (Pool 4)"
+  },
+  {
+    "name": "Zero",
+    "cost": "1",
+    "power": "3",
+    "ability": "On reveal: Remove the abilities on the next card you play.",
+    "url": "marvel-snap-cards/zero.webp",
+    "status": "released",
+    "source": "Collection Level 486+ (Pool 3)"
+  }
+]
