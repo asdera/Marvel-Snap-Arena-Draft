@@ -1,11 +1,8 @@
-# Getting Started with Create React App
+# Marvel Snap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A clever react app to create your marvel snap deck.
 
-## Available Scripts
-
-In the project directory, you can run:
-
+Remember arena mode from hearthstone, this deck building process takes inspo from that and let's you make brand new decks
 ### `npm start`
 
 Runs the app in the development mode.\
